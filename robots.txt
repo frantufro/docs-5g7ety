@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0agw56.plcwin.xyz/sitemap.xml
